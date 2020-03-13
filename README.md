@@ -1,4 +1,3 @@
-test
-====
+This is a test project.
 
-Just for test
+Nothing useful.
